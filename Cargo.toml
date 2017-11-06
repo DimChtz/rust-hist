@@ -1,6 +1,11 @@
 [package]
 name = "hist"
 version = "0.1.0"
-authors = ["DimChtz <33261325+DimChtz@users.noreply.github.com>"]
+authors = ["DimChtz"]
+description = "A tiny library to print histograms in Rust."
+keywords = ["histogram", "hist", "rust-hist", "hist-rust", "plot"]
+license = "MIT"
+repository = "https://github.com/DimChtz/rust-hist"
+readme = "README.md"
 
 [dependencies]
