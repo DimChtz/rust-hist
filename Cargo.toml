@@ -1,0 +1,6 @@
+[package]
+name = "hist"
+version = "0.1.0"
+authors = ["DimChtz <33261325+DimChtz@users.noreply.github.com>"]
+
+[dependencies]
