@@ -121,7 +121,7 @@ impl Hist {
 
                     Ok(pos) => print!("{}", if (self.h - row) <= local_y[pos] {"*"} else {" "}),
 
-                    Err(pos) => print!("{}", if row == self.h {"*"} else {" "}),
+                    Err(_) => print!("{}", if row == self.h {"*"} else {" "}),
 
                 };
 
